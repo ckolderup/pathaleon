@@ -1,4 +1,4 @@
-## Statseroth
+## Pathaleon
 
 This is a tool to do analysis on Hearthstone stats!
 Just kind of sketching stuff out right now; all this does is download and parse data from the Trackobot API given your API username & token.
